@@ -13,8 +13,8 @@ It just blinks an LED on the 7-segment display, when the switch 1 is set to on.
 
 ## How to test
 
-Explain how to use your project
+There is nothing to test right now.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None until now.
