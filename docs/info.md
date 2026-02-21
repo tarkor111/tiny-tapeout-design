@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It just blinks an LED on the 7-segment display, when the switch 1 is set to on.
 
 ## How to test
 
